@@ -1,0 +1,34 @@
+[
+    [
+        "ENG1114",
+        "English I"
+    ],
+    [
+        "ICT1112",
+        "Essential of ICT and Computer Hardware"
+    ],
+    [
+        "ICT1122",
+        "Introduction to Multimedia Technologies"
+    ],
+    [
+        "ICT1132",
+        "Fundamentals of Computer Programming"
+    ],
+    [
+        "ICT1142",
+        "Programming Practicum"
+    ],
+    [
+        "ICT1153",
+        "Web Technologies"
+    ],
+    [
+        "ICT1161",
+        "Fundamentals of Information Systems"
+    ],
+    [
+        "TMS1113",
+        45
+    ]
+]
