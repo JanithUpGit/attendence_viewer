@@ -9,6 +9,9 @@ import json
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
+import webbrowser
+import os
+
 
 
 # Replace with your real credentials
@@ -165,3 +168,10 @@ if len(attendance_data) != 0 :
 
 
 driver.quit()
+
+# Path to your HTML file
+html_file = os.path.abspath("../index.html")
+
+# Open in default browser
+webbrowser.open(f"file://{html_file}")
+
